@@ -1,7 +1,12 @@
 # IBM-Project-34056-1660231008
 A Novel Method for Handwritten Digit Recognition System
+
 TEAM MEMBERS 
+
 JASWANTH 
+
 CHENCHU JASWANTH
+
 VENKATA SATWIK
+
 VENKATA NAGA CHAITHANYA
